@@ -112,8 +112,8 @@ module.exports = function(app) {
             port: 465,  
             secure: true,                  
             auth: {
-                user: 'faizan@yarikul.in',
-                pass: 'Constant@55b'
+                user: 'user@domain.xyz',
+                pass: 'password'
             }
         });
 
