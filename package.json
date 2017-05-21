@@ -1,0 +1,17 @@
+{
+  "name": "reportmanager",
+  "version": "1.0.0",
+  "description": "Email daily reports",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faizan Akram",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.5",
+    "nodemailer": "^3.1.5"
+  }
+}
